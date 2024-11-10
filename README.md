@@ -9,3 +9,5 @@ https://www.figma.com/design/fdRSiSUWPb8H8M9LUVHCdL/HTML-e-CSS%3A-responsividade
 * SwiperJS
 
 Conclusão: Projeto inicialmente feito pensado em mobile first, nas resoluções dinâmicas e respeitando a responsividade de cada resolução. 
+
+Link para teste: https://lucasdiasa.github.io/AluraBooks/
